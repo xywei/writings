@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://xywei.github.io/writings/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "(Jacob) Xiaoyu Wei"
 theme = "mini"
+
+hasCJKLanguage = true
+
+[permalinks]
+posts = "/posts/:title/"
